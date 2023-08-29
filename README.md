@@ -5,7 +5,8 @@ Thank you so much for saving our life.
 Click ME to see original post, this GitHub Repo is in case the page gets deleted.  
 Please Buy him a coffee guys:  
 [![Buy him a Coffee Guys](https://github.com/KenRen98/Renaming-Proxmox-Cluster-Members/blob/main/Buy%20him%20a%20coffee.png?raw=true)](https://www.buymeacoffee.com/murfy)  
-**https://www.buymeacoffee.com/murfy (The link got from the original site, tell me if it updated.)**
+**https://www.buymeacoffee.com/murfy  
+(The link got from the original site, tell me if it updated.)**
 
 ## His Solution:  
 Posting this here because I have not actually seen viable answers on the internet. It is difficult, but possible to rename cluster members. Create a file “hostname.sh” in the root directory of your cluster member:  
