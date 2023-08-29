@@ -1,5 +1,5 @@
 # Renaming-Proxmox-Cluster-Members
-Original Author: **Michael**, [his blog](https://murfy.nz/).
+Original Author: **Michael**, [his blog](https://murfy.nz/).  
 Thank you so much for saving our life.
 
 **[Click ME](https://murfy.nz/2023/04/18/renaming-proxmox-cluster-members/) to see original post, this GitHub Repo is in case the page gets deleted.**  
